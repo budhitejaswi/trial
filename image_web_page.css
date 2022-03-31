@@ -1,0 +1,18 @@
+a {
+    color:rgb(66, 111, 112);
+        text-shadow: 1px 1px white;
+        font-family: cursive;
+        font-size: 21px;
+        background-color: rgb(174, 157, 236);
+        padding-left: 25px;
+        padding-right: 25px;
+}
+
+
+canvas { 
+    border:ridge;
+    border-radius: 25px;
+    border-color: rgb(69, 104, 105);
+    border-width: 5px;
+    margin: top 40px;
+}
